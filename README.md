@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="Nasir Driving Simulator project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/nasir-driving-simulator.webp" width="100%" alt="nasir-driving-simulator — project concept artwork">
 
 # Nasir Driving Simulator
 
